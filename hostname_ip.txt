@@ -1,0 +1,5 @@
+chirpi
+eth0
+wlan0
+192.168.1.194
+Thu Dec 14 15:38:13 PST 2017
